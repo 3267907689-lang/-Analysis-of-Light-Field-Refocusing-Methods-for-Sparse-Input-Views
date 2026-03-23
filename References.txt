@@ -1,0 +1,23 @@
+References
+1.	I. Ihrke, J. Restrepo, and L. Mignard-Debise, "Principles of light field imaging: briefly revisiting 25 years of research," IEEE Signal Process. Mag. 33(5), 59-69 (2016) [doi:10.1109/MSP.2016.2582220].
+2.	F. Liu et al., "A comprehensive research on light field imaging: theory and application," IET Comput. Vis. 18(8), 1269-1284 (2024).
+3.	S. Zhou et al., "Review of light field technologies," Vis. Comput. Ind. Biomed. Art 4(1), 29 (2021).
+4.	R. Gao et al., "Diffusion-based light field synthesis," in Proc. Eur. Conf. Comput. Vision (ECCV), Springer Nature Switzerland, Cham, pp. 1-19 (2024).
+5.	D. Liu et al., "Light field angular super-resolution network based on convolutional transformer and deep deblurring," IEEE Trans. Comput. Imaging 10, 1736-1748 (2024).
+6.	W. Chao et al., "Lfsrdiff: light field image super-resolution via diffusion models," in Proc. IEEE Int. Conf. Acoust., Speech Signal Process. (ICASSP), pp. 1-5 (2025).
+7.	B. Wilburn et al., "High performance imaging using large camera arrays," in ACM SIGGRAPH 2005 Papers, pp. 765-776 (2005).
+8.	Y. Xu et al., "Camera array calibration for light field acquisition," Front. Comput. Sci. 9, 691–702 (2015) [doi:10.1007/s11704-015-4237-4].
+9.	F. Y. Wang and Y. Shen, "Parallel light fields: a perspective and a framework," IEEE/CAA J. Autom. Sinica 11(2), 542-544 (2024).
+10.	S. Dayan et al., "Deep sparse light field refocusing," in Proc. 31st Br. Mach. Vis. Conf. (BMVC) (2020).
+11.	Y. Wang et al., "Selective light field refocusing for camera arrays using bokeh rendering and superresolution," IEEE Signal Process. Lett. 26(1), 204-208 (2018).
+12.	M. Levoy and P. Hanrahan, "Light field rendering," in Proc. SIGGRAPH (1996).
+13.	R. Ng, Digital Light Field Photography, PhD dissertation, Stanford University, Stanford, CA (2006).
+14.	M. Alain and A. Smolic, "A spatio-angular filter for high quality sparse light field refocusing," in Proc. IEEE Int. Conf. Multimedia Expo Workshops (ICMEW), pp. 1-6 (2021) [doi:10.1109/ICMEW53276.2021.9456001].
+15.	R. Ng, "Fourier slice photography," in ACM SIGGRAPH, pp. 735-744 (2005).
+16.	M. le Pendu, C. Guillemot, and A. Smolic, "A Fourier disparity layer representation for light fields," IEEE Trans. Image Process. 28(11), 5740-5753 (2019).
+17.	S. Wanner and B. Goldluecke, "Spatial and angular variational super-resolution of 4D light fields," in Proc. Eur. Conf. Comput. Vision (ECCV), pp. 608-621 (2012).
+18.	R. A. Farrugia, C. Galea, and C. Guillemot, "Super resolution of light field images using linear subspace projection of patch-volumes," IEEE J. Sel. Top. Signal Process. 11(7), 1058-1071 (2017).
+19.	N. K. Kalantari, T.-C. Wang, and R. Ramamoorthi, "Learning-based view synthesis for light field cameras," ACM Trans. Graph. 35(6), 193 (2016) [doi:10.1145/2980179.2980251].
+20.	G. Wu et al., "Light field reconstruction using deep convolutional network on EPI," in Proc. IEEE Conf. Comput. Vision Pattern Recognit. (CVPR), pp. 6319-6327 (2017).
+21.	S. Farsiu et al., "Fast and robust multiframe super resolution," IEEE Trans. Image Process. 13(10), 1327-1344 (2004).
+22.	M. Levoy and P. Hanrahan, "Light field rendering," in Seminal Graphics Papers: Pushing the Boundaries, Volume 2, pp. 441-452 (2023).
